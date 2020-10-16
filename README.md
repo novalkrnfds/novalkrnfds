@@ -42,8 +42,6 @@ I am a humble person, experienced on full-time position as a Front end Developer
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=novalkrnfds&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord" alt="novalkrnfds's Github Stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novalkrnfds&layout=compact&theme=nord)](https://github.com/devSouvik/github-readme-stats)
-
 [git]: https://github.com/novalkrnfds
 [twitter]: https://twitter.com/novalkrnfds
 [instagram]: https://instagram.com/novalkrnfds

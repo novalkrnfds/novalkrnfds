@@ -6,7 +6,7 @@ I am a humble person, experienced on full-time position as a Front end Developer
 - 🔭 &nbsp;I’m currently working at [Orami][orami] as Sr. Front-End Developer
 - 🌱 &nbsp;I’m currently learning everything 🤣
 - 👯 &nbsp;I’m looking to collaborate with Open Source projects creators
-- 🥅 &nbsp;2020 Goals: Contribute more to Open Source projects
+- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
 - 💬 &nbsp;Ask me about anything you want to ask
 
 ### My Tech Stack :computer:

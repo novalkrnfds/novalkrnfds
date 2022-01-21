@@ -3,10 +3,10 @@
 **novalkrnfds/novalkrnfds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I am a humble person, experienced on full-time position as a Front end Developer, that loves to develop perfect solutions with clean code and newest technologies.
-- 🔭 &nbsp;I’m currently working at [Orami][orami] as Sr. Front-End Developer
+- 🔭 &nbsp;I’m currently working at [SiCepat Ekspress][sicepat] as Front-End Developer
 - 🌱 &nbsp;I’m currently learning everything 🤣
 - 👯 &nbsp;I’m looking to collaborate with Open Source projects creators
-- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
+- 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
 - 💬 &nbsp;Ask me about anything you want to ask
 
 ### My Tech Stack :computer:
@@ -46,4 +46,4 @@ I am a humble person, experienced on full-time position as a Front end Developer
 [twitter]: https://twitter.com/novalkrnfds
 [instagram]: https://instagram.com/novalkrnfds
 [linkedin]: https://www.linkedin.com/in/nouval-k-9aa594138/
-[orami]: https://parenting.orami.co.id/
+[sicepat]: https://sicepat.com/

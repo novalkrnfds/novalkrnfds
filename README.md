@@ -3,7 +3,7 @@
 **novalkrnfds/novalkrnfds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I am a humble person, experienced on full-time position as a Front end Developer, that loves to develop perfect solutions with clean code and newest technologies.
-- 🔭 &nbsp;I’m currently working at [SiCepat Ekspress][sicepat] as Front-End Developer
+- 🔭 &nbsp;I’m currently working at [Bibit.id][bibit] as Web Engineer
 - 🌱 &nbsp;I’m currently learning everything 🤣
 - 👯 &nbsp;I’m looking to collaborate with Open Source projects creators
 - 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
@@ -45,5 +45,5 @@ I am a humble person, experienced on full-time position as a Front end Developer
 [git]: https://github.com/novalkrnfds
 [twitter]: https://twitter.com/novalkrnfds
 [instagram]: https://instagram.com/novalkrnfds
-[linkedin]: https://www.linkedin.com/in/nouval-k-9aa594138/
-[sicepat]: https://sicepat.com/
+[linkedin]: https://www.linkedin.com/in/nouval-k-firdaus/
+[bibit]: https://bibit.id/
